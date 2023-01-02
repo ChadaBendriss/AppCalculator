@@ -20,7 +20,7 @@
             android:id="@+id/resultEdit"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:hint="0"
+            android:hint="Enter a value"
             android:textColorHint="@color/white"
             android:textColor="@color/white"
             android:textSize="30sp"/>
